@@ -1,4 +1,4 @@
-# tensorflow
+# miniflow
 
 Udacity Deep Learning Nanodegree course
 
